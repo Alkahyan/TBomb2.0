@@ -35,11 +35,11 @@ banner() {
                  figlet TBomb2.0
     fi
     if ! [ -x "$(command -v toilet)" ]; then
-        echo -e "\e[4;34m This Bomber Was Created By \e[1;32mIncredible Hacker \e[0m"
+        echo -e "\e[4;34m This Bomber Was Created By \e[1;32Draken \e[0m"
     else
         echo -e "\e[1;34mCreated By \e[1;34m"
         figlet Incredible Hacker
-    printf "\033[1;93m[\033[1;77m::\033[1;93m]	    \033[1;92m   Code by : \033[1;97m   speedx	    \033[1;93m[\033[1;77m::\033[1;93m]"
+    printf "\033[1;93m[\033[1;77m::\033[1;93m]	    \033[1;92m   Code by : \033[1;97m   draken	    \033[1;93m[\033[1;77m::\033[1;93m]"
 	printf "\n\033[1;93m[\033[1;77m::\033[1;93m]	\033[1;92mmodify code by : \033[1;97m Incredible Hacker \033[1;93m[\033[1;77m::\033[1;93m]\n"
     echo " "
     echo " "
@@ -123,12 +123,12 @@ do
     echo -e "'\033[1;36m############################# \033[1;32m [Features] \033[1;36m ###################################"
 echo " "
 echo " "
-echo -e " \033[1;31m                         ➡️ \033[1;33m  [1️⃣] Sms bombing"
-echo -e " \033[1;31m                         ➡️ \033[1;33m  [2️⃣] Call bombing"
-echo -e " \033[1;31m                         ➡️ \033[1;33m  [3️⃣] Mail bombing"
-echo -e " \033[1;31m                         ➡️ \033[1;33m  [4️⃣] Whatsapp bombing (coming soon)"
-echo -e " \033[1;31m                         ➡️ \033[1;33m  [5️⃣] Update script"
-echo -e " \033[1;31m                         ➡️ \033[1;33m  [6️⃣] exit"
+echo -e " \033[1;31m                         ➡️ \033[1;33m  [1️⃣] رسائل"
+echo -e " \033[1;31m                         ➡️ \033[1;33m  [2️⃣] مكالمات"
+echo -e " \033[1;31m                         ➡️ \033[1;33m  [3️⃣] بريد الكتروني"
+echo -e " \033[1;31m                         ➡️ \033[1;33m  [4️⃣]اسبام واتساب(قريبا)"
+echo -e " \033[1;31m                         ➡️ \033[1;33m  [5️⃣] تحديث الايسكريبت"
+echo -e " \033[1;31m                         ➡️ \033[1;33m  [6️⃣] خروج"
 echo " "
 echo " "
 echo -e "\033[1;36m ############################## \033[1;32m [SELECT] \033[1;36m ####################################"
